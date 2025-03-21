@@ -25,4 +25,11 @@ The vision of this project is to establish a trustless, immutable, and decentral
 - **Secure Smart Contracts:** Ensures safe transactions without intermediaries.
 ## Contract address :
 0x4efC72ba720f77F61849AE75D080Bcb31cCf2689
+
 ![image](https://github.com/user-attachments/assets/3c4daa7f-4f6d-4ccb-9c18-2b134427a7e1)
+
+
+## frontend 
+
+![image](https://github.com/user-attachments/assets/e1ccb2a8-4faa-4b3d-a5b7-f9f1a564b0e6)
+
